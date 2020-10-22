@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": 1602493016,
+      "filename": "lineage-17.1-20201012-UNOFFICIAL-4.9-mido.zip",
+      "id": "59faf13bb5c785020ea567ec87722f30",
+      "romtype": "OFFICIAL",
+      "size": 638664116,
+      "url": "https://github.com/zeelog/OTA/releases/download/19.0/lineage-17.1-20201012-UNOFFICIAL-4.9-mido.zip",
+      "version": "20.10.15"
+    }
+  ]
+}
