@@ -1,12 +1,12 @@
 <ROM>
     <RomName>MIUI Nusantara</RomName>
-    <VersionName>MIUI Nusantara 20.10.22 Redmi 4X (santoni)</VersionName>
-    <VersionNumber type="integer">12000100</VersionNumber>
+    <VersionName>New Style UI MIUI Nusantarana 20.10.15</VersionName>
+    <VersionNumber type="integer">12000021</VersionNumber>
     <DirectUrl nil="true"/>
     <HttpUrl>https://eunhamirror.vinc.workers.dev/RMX1931EX_11_OTA_1320_all_L8f64TYO0FSW.ozip</HttpUrl>
     <Android>10.0</Android>
     <CheckMD5 nil="true"/>
-    <FileSize type="integer">1019200000</FileSize>
+    <FileSize type="integer">22791324</FileSize>
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
