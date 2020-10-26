@@ -1,14 +1,15 @@
 <ROM>
     <RomName>MIUI Nusantara</RomName>
-    <VersionName>New Style UI MIUI Nusantarana 20.10.15</VersionName>
+    <VersionName>New Style UI MIUI Nusantara 20.10.15</VersionName>
     <VersionNumber type="integer">12000021</VersionNumber>
     <DirectUrl nil="true"/>
-    <HttpUrl>https://semawur.com/BfuhYf1</HttpUrl>
+    <HttpUrl>https://semawur.com/NTP1On</HttpUrl>
     <Android>10.0</Android>
     <CheckMD5 nil="true"/>
+    <MD5>4ff1c4e1700d81fd4a39e062b1c67221</MD5>
     <FileSize type="integer">22791324</FileSize>
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
-    <Changelog>New UI like AOSP</Changelog>
+    <Changelog>#New UI like AOSP</Changelog>
 </ROM>
