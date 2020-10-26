@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>MIUI Nusantara</RomName>
     <VersionName>New Style UI MIUI Nusantara 20.10.15</VersionName>
@@ -5,9 +6,13 @@
     <DirectUrl nil="true"/>
     <HttpUrl>https://semawur.com/NTP1On</HttpUrl>
     <Android>10.0</Android>
+    <CheckMD5>4ff1c4e1700d81fd4a39e062b1c67221</CheckMD5>
     <FileSize type="integer">22791324</FileSize>
     <Developer>AnGgIt86</Developer>
     <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
     <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
-    <Changelog>#Changelog - New Style UI like AOSP - Added Logo Header - Update Accent Color</Changelog>
+    <Changelog>###Changelog
+    * New Style UI like AOSP
+    * Added Logo Header
+    * Update Accent Color</Changelog>
 </ROM>
