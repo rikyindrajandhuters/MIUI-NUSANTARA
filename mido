@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+    <RomName>MIUI Nusantara</RomName>
+    <VersionName>MIUI 12 Nusantara 20.10.15 Mido</VersionName>
+    <VersionNumber type="integer">12000021</VersionNumber>
+    <DirectUrl nil="true"/>
+    <HttpUrl>Diluk Engkas Rilis, Entenano Disek!</HttpUrl>
+    <Android>10.0</Android>
+    <CheckMD5></CheckMD5>
+    <FileSize type="integer">22791324</FileSize>
+    <Developer>Riky Indra</Developer>
+    <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
+    <Changelog>###Changelog
+    • Added New FPS Toogle for MIUI Q Base
+    • Remove Bloatware (Miui Camera,MiRadio,Notes,Miui Screen Record,Sound Record,Notes,Calculator,Etc)
+    • Added Indonesian language
+    • Added Google Calendar 
+    • Added Digital Health Application (Digital Weilbeing)
+    • Added Turbo App
+    • Added Wallpaper Picker Google
+    • Added Youtube Vanced
+    • Update Android Security Patch To October 2020
+    • Kernel Kizuna R3
+</ROM>
